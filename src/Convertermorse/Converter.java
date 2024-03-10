@@ -74,13 +74,7 @@ public class Converter {
 
 
 
-  /* //boolean för att kolla om tecken är giltigt eller ej dvs true lr false (true är den om det finns in min array list)
-    private static boolean validChars(char c) {
-        return ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || (c >= '0' && c <= '9')
-                || c == '?' || c == '.' || c == ',');
 
-
-    } */
 }
 
 

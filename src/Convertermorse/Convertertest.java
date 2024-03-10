@@ -63,18 +63,7 @@ public class Convertertest {
     assertEquals(expected,actual);
 
 }
-/*
-@Test
-    public void testLowerCaseToMorse() {
-    Converter converter=new Converter();
-    char testChar='a';
 
-    String expected=".-";
-
-    String actual=Converter.charToMorse(testChar);
-
-    assertEquals(expected,actual);
-} */
 
 
 }
